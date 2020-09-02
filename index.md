@@ -1,14 +1,15 @@
-# Hello, World
+# Welcome to Ava's website
 
-You can use the [editor on GitHub](https://github.com/avaacarr/avaacarr.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my website!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Get to know me!
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
+# My major
+I am a sophomore ISAT major who may concentrate in Environmental or Biotech. 
+# Where I'm from
+I am from Woodbridge, Virginia where I attended Woodbridge Senior High School and participated in the PLTW engineering program and was a member of the varsity swim team. 
+# My interests
+I enjoy hanging out with friends, going hiking.
 Syntax highlighted code block
 
 # Header 1

@@ -18,3 +18,4 @@ I enjoy hanging out with friends, going hiking and watching reality TV shows wit
 
 # My portfolio
 Python - So far I have completed a "Hello World" program for Python (completed 9/8/2020). 
+![Image 9-8-20 at 2 59 PM](https://user-images.githubusercontent.com/70115357/92520282-5ab97900-f1e9-11ea-8c85-f998579d5ea6.jpg)

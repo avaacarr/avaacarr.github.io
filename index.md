@@ -18,7 +18,11 @@ I enjoy hanging out with friends, going hiking and watching reality TV shows wit
 
 # My portfolio
 
-My goal this year is to learn JavaScript. I am more interested in learning that program first because it seems interesting. 
+My goal this year is to learn JavaScript. I am more interested in learning that program first because it seems interesting. I completed the freecodecamp Basic JavaScript tutorial on 10/5/2020 and below is a screenshot of the Basic JavaScript completion.
+
+[
+![Image 10-5-20 at 3 56 PM](https://user-images.githubusercontent.com/70115357/95125856-8c0f6100-0723-11eb-9b2c-6742bed7b834.jpg)
+](url)
 
 # Python
  ## Below is a completed  "Hello World" program in Python (completed 9/8/2020). 

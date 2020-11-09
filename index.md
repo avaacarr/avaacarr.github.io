@@ -29,6 +29,15 @@ My goal this year is to learn JavaScript. I am more interested in learning that 
 ![Image 9-8-20 at 2 59 PM](https://user-images.githubusercontent.com/70115357/92520282-5ab97900-f1e9-11ea-8c85-f998579d5ea6.jpg)
 
 Link to Github repository -  https://github.com/avaacarr/hello-world-python 
+## Below is Challenge #1 completed in Python on 11/9/20 (Converts MPG to KPL)
+
+
+![Image 11-9-20 at 5 08 PM](https://user-images.githubusercontent.com/70115357/98602340-4d367300-22ae-11eb-8bff-81505c3c86eb.jpg)
+
+Link to Github repository - https://github.com/avaacarr/mph2kpl-python 
+
+
+
 
 # Java Script 
 ## Below is a completed "Hello, World" program in JavaScript using NodeJS (completed 9/10/20)

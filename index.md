@@ -60,5 +60,8 @@ Link to GitHub repository - https://github.com/avaacarr/hello-world-javascript
 Below is a link to my completed Narrative for the semester on GoogleDocs.
 https://docs.google.com/document/d/1dduw0Yem3TVngf96doxR9-XXGw3zqXHiEC8n6fcnWrY/edit
 
+## Nick's Github Page
+Below I am inserting the link to Nick Bower's Gihub repo that contains all of the code for our paper-saver project. 
 
+https://github.com/Bower3jn/paper-saver
 

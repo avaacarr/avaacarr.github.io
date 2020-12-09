@@ -56,4 +56,9 @@ My goal this year is to learn JavaScript. I am more interested in learning that 
 
 Link to GitHub repository - https://github.com/avaacarr/hello-world-javascript
 
+## Narrative
+Below is a link to my completed Narrative for the semester on GoogleDocs.
+https://docs.google.com/document/d/1dduw0Yem3TVngf96doxR9-XXGw3zqXHiEC8n6fcnWrY/edit
+
+
 
